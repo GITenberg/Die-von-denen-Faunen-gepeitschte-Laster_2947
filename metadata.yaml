@@ -1,0 +1,28 @@
+_repo: Die-von-denen-Faunen-gepeitschte-Laster_2947
+creator:
+  author:
+    agent_name: Zäunemann, Sidonia Hedwig
+    aliases:
+    - Zäunemann, Sidonie Hedwig
+    - Zäunemannin, Sidonia Hedwig
+    - Zaunemann, Sidonia Hedwig
+    birthdate: 1714
+    deathdate: 1740
+    gutenberg_agent_id: '1072'
+    url: http://www.gutenberg.org/2009/agents/1072
+    wikipedia: http://de.wikipedia.org/wiki/Sidonia_Hedwig_Z%C3%A4unemann
+description: ''
+gutenberg_bookshelf: DE Lyrik
+gutenberg_issued: '2001-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2947'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German poetry -- 18th century'
+- !lcc 'PT'
+title: Die von denen Faunen gepeitschte Laster
+url: http://www.gutenberg.org/ebooks/2947
